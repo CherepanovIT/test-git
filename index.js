@@ -2,7 +2,7 @@ console.log('Hello World');
 
 const userAge = 35;
 if (userAge >= 18) {
-    console.log("Вы совершеннолетние");
+    console.log("Вы совершеннолетний");
 } else {
-    console.log("Вы не совершеннолетние");
+    console.log("Вы не совершеннолетний");
 }
